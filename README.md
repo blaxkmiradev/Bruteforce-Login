@@ -1,6 +1,6 @@
 
 ## 🚀 Features
-* **Custom ASCII Art:** Featuring the signature K-SEC branding.
+
 * **Color-Coded Output:** Real-time visual feedback (Success/Failure/Errors).
 * **Logging:** Valid credentials are automatically saved to `found.txt`.
 * **Smart Parsing:** Handles `user:pass` combo lists efficiently.
